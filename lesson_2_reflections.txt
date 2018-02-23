@@ -1,0 +1,14 @@
+Reflexoes 2
+
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+
+O diretorio passar a ter controle de versao.
+E a pasta .git eh criada para armazenar metadados de todas as alteracoes feitas neste diretorio.
+
+Eh preciso fazer isso para criar um historico de versoes do diretorio do projeto.
+
+
+Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+
+Nao sei ao certo a resposta para esta pergunta.
+
