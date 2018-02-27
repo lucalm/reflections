@@ -20,3 +20,9 @@ Como você pode usar a área de preparação para garantir que tenha um commit p
 
 Adicionando somente os arquivos que fazem parte dessa alteracao logica para entao depois fazer o commit.
 
+
+Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+
+No caso de uma nova implementacao a ser testada antes de se tornar oficional, por exemplo.
+
+
