@@ -10,5 +10,13 @@ Eh preciso fazer isso para criar um historico de versoes do diretorio do projeto
 
 Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
 
+Na area de preparacao do diretorio eh possivel agrupar os arquivos e organiza-los de forma logica para fazer o commit.
+
+Assim, fica mais facil de organizar os commits e entender o que foi feito caso seja necessario retornar a esta versao.
 Nao sei ao certo a resposta para esta pergunta.
+
+
+Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+
+Adicionando somente os arquivos que fazem parte dessa alteracao logica para entao depois fazer o commit.
 
