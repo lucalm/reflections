@@ -26,3 +26,6 @@ Quais são algumas das situações em que branches seriam úteis para manter seu
 No caso de uma nova implementacao a ser testada antes de se tornar oficional, por exemplo.
 
 
+Como os diagramas ajudam a visualizar a estrutura de branches?
+
+Com os diagramas fica facil entender quais commits serao visualizados com o comando git log.
