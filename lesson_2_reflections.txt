@@ -29,3 +29,14 @@ No caso de uma nova implementacao a ser testada antes de se tornar oficional, po
 Como os diagramas ajudam a visualizar a estrutura de branches?
 
 Com os diagramas fica facil entender quais commits serao visualizados com o comando git log.
+
+
+Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+
+O resultado eh a fusao para apenas um branch, neste caso o master.
+
+
+Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
+
+
+
