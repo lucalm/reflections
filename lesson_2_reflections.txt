@@ -35,8 +35,15 @@ Qual é o resultado da mesclagem de dois branches? Por que o representamos no di
 
 O resultado eh a fusao para apenas um branch, neste caso o master.
 
+Após uma mesclagem, todos os commits serão exibidos com base no timestamp no git log. Isso mostrará os commits dos dois ramos diferentes.
+
 
 Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
 
+A mesclagem automatica economiza mais tempo em relacao a mesclagem manual.
+
+
+
+ 
 
 
