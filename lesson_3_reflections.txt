@@ -12,5 +12,9 @@ Descreva as diferenças entre bifurcações, clones e branches. Quando você usa
 Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
 
 
+Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
+
+
+
 
 
