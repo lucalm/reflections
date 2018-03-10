@@ -15,6 +15,6 @@ Qual é o benefício de ter uma cópia do último estado conhecido do remoto arm
 Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
 
 
-
+Quando você gostaria de fazer alterações em um branch separado, e não diretamente no master? Quais são os benefícios de cada abordagem?
 
 
